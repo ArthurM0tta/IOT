@@ -9,7 +9,7 @@ WIFI_SSID = "SEU_SSID"
 WIFI_SENHA = "SUA_SENHA"
 
 # 🌐 Configurações MQTT
-MQTT_BROKER = "172.16.6.142"
+MQTT_BROKER = "mqttengenharias.tech"
 MQTT_USER = "NodeMCU2"
 PORTA = 1883
 MQTT_TOPICO = "NodeMCU2"
