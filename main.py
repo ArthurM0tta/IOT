@@ -5,14 +5,14 @@ from umqtt.simple import MQTTClient
 import gc
 
 # 📡 Configurações WiFi
-WIFI_SSID = "SEU_SSID"
-WIFI_SENHA = "SUA_SENHA"
+WIFI_SSID = "NET_2G422C8E"
+WIFI_SENHA = "E2422C8E"
 
 # 🌐 Configurações MQTT
 MQTT_BROKER = "mqttengenharias.tech"
-MQTT_USER = "NodeMCU2"
+MQTT_USER = "656b8200"
 PORTA = 1883
-MQTT_TOPICO = "NodeMCU2"
+MQTT_TOPICO = "GRUPO2"
 
 # 📄 Caminho do arquivo PDF já presente no NodeMCU
 CAMINHO_PDF = "/exemplo.pdf"
